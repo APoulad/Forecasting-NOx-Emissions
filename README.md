@@ -2,6 +2,8 @@
 
 This repository contains code that monitors and forecasts atmospheric NOx concentrations.
 
+See our [video demo](https://youtu.be/8q6dSmISfhU).
+
 ## Background
 
 The problem we are addressing is the monitoring and forecasting of atmospheric NOx concentrations, which are primarily caused by anthropogenic activity. Large emitters of NOx include the combustion of fossil fuels for transportation, power generation, and industrial activity. These emissions can be mitigated by reducing activity, switching to alternative clean energy sources, and adapting source emissions capture systems. Not only are NOx concentrations important for pollution studies (e.g. smog), but they also serve as a proxy for the more hard-to-measure CO2 emissions, the primary greenhouse gas responsible for long-term global warming.
@@ -27,7 +29,7 @@ This repo contains:
 
 ## More Details
 
-See the [presentation](Presentation/NOx_Forecasting_Presentation.pdf) or [video](https://youtu.be/8q6dSmISfhU) for more details on the background, motivation, and technical approach for this project. 
+See the [PowerPoint presentation](Presentation/NOx_Forecasting_Presentation.pdf) or [video](https://youtu.be/8q6dSmISfhU) for more details on the background, motivation, and technical approach for this project. 
 
 ## Authors
 
